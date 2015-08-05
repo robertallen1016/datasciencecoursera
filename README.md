@@ -1,3 +1,2 @@
 # datasciencecoursera
-Coursera Repository
-Repository for Robert Allen
+Coursera Repository for Robert Allen
